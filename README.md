@@ -1,3 +1,5 @@
 # new
 my first repository
-Author - Soumya Karmakar
+Author - Soumya Karmakar BHU
+
+
